@@ -70,4 +70,4 @@ Full SQL schema is included in the repository as:
 
 ## 5. Screenshots
 
-screenshots of the application pages are contained in the folder ./screenshots
+All application screenshots are stored in the [screenshots](screenshots/) folder of this repository.
