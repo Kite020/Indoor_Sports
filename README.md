@@ -70,8 +70,4 @@ Full SQL schema is included in the repository as:
 
 ## 5. Screenshots
 
-Home Page  
-(Place your screenshot here)
-
-```markdown
-![Home Page](./Screenshots/home_page.png)
+screenshots of the application pages are contained in the folder ./sreenshots
